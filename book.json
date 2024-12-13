@@ -7,7 +7,7 @@
     "pluginsConfig": {
       "tbfed-pagefooter": {
         "copyright": "Copyright &copy ruarua 2020",
-        "modify_label": "该文章修订时间：",
+        "modify_label": "Modified in：",
         "modify_format": "YYYY-MM-DD",
       }
     }
