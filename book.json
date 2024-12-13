@@ -2,7 +2,8 @@
     "title" : "Gitbook Use", 
     "author" : "admin",
     "plugins": [
-    "tbfed-pagefooter"
+    "tbfed-pagefooter",
+    "toggle-chapters"
     ],
     "pluginsConfig": {
       "tbfed-pagefooter": {
