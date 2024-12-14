@@ -27,18 +27,22 @@ layout:
 ## **实验前阅读**
 
 {% hint style="info" %}
-**最新消息（请保持持续关注）**
-
 * [学术诚信（什么事情能做，什么事情不能）](http://integrity.mit.edu/)
 * [常见问题](qa/page-2.md)
 * 外部资源
+  * ["一生一芯"课程](https://ysyx.oscc.cc/docs/)
+  * 《 Vim用户手册中文版 》
+  * 《 数字集成电路物理设计 》
+  * 《 Static Timing Analysis for Nanometer Designs:A Practical Approach 》 以及对应课程
+{% endhint %}
 
-***
-
-* 2025/02&#x20;
-  * 本讲义处于测试阶段，如有错漏之处，欢迎联系助教
 
 
+## **更新**
+
+{% hint style="info" %}
+* 2025/02
+  * 讲义处于测试阶段，如有错漏之处，欢迎联系助教
 {% endhint %}
 
 
