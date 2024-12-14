@@ -16,9 +16,10 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## Chapter1. 课程目标
+## Chapter1. 课程介绍
 
-* [Page 1](chapter1.-ke-cheng-mu-biao/page-1.md)
+* [课程要求](chapter1.-ke-cheng-jie-shao/ke-cheng-yao-qiu.md)
+* [评分](chapter1.-ke-cheng-jie-shao/ping-fen.md)
 
 ## Chapter2. 预备知识
 
@@ -29,7 +30,7 @@
 ## Chapter3. 从源码到网表：DC 逻辑综合
 
 * [DC 逻辑综合简介](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/dc-luo-ji-zong-he-jian-jie.md)
-* [🥵 主脚本](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/zhu-jiao-ben.md)
+* [主脚本](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/zhu-jiao-ben.md)
 * [文件读入](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/wen-jian-du-ru.md)
 * [设计约束](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/she-ji-yue-shu.md)
 * [约束方法](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/yue-shu-fang-fa.md)
