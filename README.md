@@ -28,7 +28,7 @@ layout:
 
 {% hint style="info" %}
 * [学术诚信（什么事情能做，什么事情不能）](http://integrity.mit.edu/)
-* [常见问题](qa/page-2.md)
+* [常见问题](faq/page-2.md)
 * 外部资源
   * ["一生一芯"课程](https://ysyx.oscc.cc/docs/)
   * 《 Vim用户手册中文版 》

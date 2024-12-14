@@ -35,6 +35,8 @@
 * [约束方法](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/yue-shu-fang-fa.md)
 * [其他命令](chapter3.-cong-yuan-ma-dao-wang-biao-dc-luo-ji-zong-he/qi-ta-ming-ling.md)
 
-## QA
+## FAQ
 
-* [Page 2](qa/page-2.md)
+* [服务器使用](faq/page-2.md)
+* [DC / ICC 使用](faq/dc-icc-shi-yong.md)
+* [课程相关及其他](faq/ke-cheng-xiang-guan-ji-qi-ta.md)
