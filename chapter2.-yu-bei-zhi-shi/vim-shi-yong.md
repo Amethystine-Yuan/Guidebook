@@ -16,7 +16,7 @@ PARA1
 
 <details>
 
-<summary></summary>
+<summary>为什么要用 hjkl 键来移动光标，而不是 ←↑↓→？</summary>
 
 zhuyi
 
